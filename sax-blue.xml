@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "sax-blue">
+	<slot number = "1">
+		<pattr name = "echo_return" value = "137" />
+		<pattr name = "echo_return_pan" value = "64" />
+		<pattr name = "echo_return_reverb_send" value = "137" />
+		<pattr name = "main_out_gain1&amp;2" value = "137" />
+		<pattr name = "rev_p1" value = "0" />
+		<pattr name = "source_gain" value = "137" />
+		<pattr name = "source_menu" value = "0" />
+		<pattr name = "source_output" value = "137" />
+		<pattr name = "source_output_pan" value = "64" />
+		<pattr name = "source_reverb_send" value = "137" />
+		<pattr name = "aMatrixOut" value = "0 0 1 1 1 1 2 0 1 3 1 1 4 0 1 5 1 1" />
+		<patcher name = "KorgSE500">
+			<pattr name = "se500_fb" value = "0." />
+			<pattr name = "se500_fltSW" value = "0" />
+			<pattr name = "se500_flt_hi" value = "0" />
+			<pattr name = "se500_flt_low" value = "127" />
+			<pattr name = "se500_mode0" value = "0" />
+			<pattr name = "se500_mode1" value = "0" />
+			<pattr name = "se500_mode2" value = "0" />
+			<pattr name = "se500_mode3" value = "0" />
+			<pattr name = "se500_mode4" value = "0" />
+			<pattr name = "se500_mode5" value = "0" />
+			<pattr name = "se500_speed" value = "0." />
+		</patcher>
+		<patcher name = "ReverbUnit">
+			<pattr name = "rev_p1" value = "1" />
+			<pattr name = "rev_p2" value = "93" />
+			<pattr name = "rev_p3" value = "104" />
+			<pattr name = "rev_p4" value = "115" />
+			<pattr name = "rev_p5" value = "100" />
+			<pattr name = "rev_p6" value = "87" />
+			<pattr name = "rev_p7" value = "96" />
+			<pattr name = "rev_p8" value = "116" />
+		</patcher>
+		<patcher name = "Midi Mapping">
+			<pattr name = "ctrl_Cancel" value = "0" />
+			<pattr name = "ctrl_Delay1" value = "0" />
+			<pattr name = "ctrl_Delay2" value = "0" />
+			<pattr name = "ctrl_Delay3" value = "0" />
+			<pattr name = "ctrl_Delay4" value = "0" />
+			<pattr name = "ctrl_DelaySOS" value = "0" />
+			<pattr name = "ctrl_FB" value = "0" />
+			<pattr name = "ctrl_FB_value" value = "0" />
+			<pattr name = "ctrl_Input_value" value = "0" />
+			<pattr name = "ctrl_Mute" value = "0" />
+			<pattr name = "ctrl_Pedal1" value = "0" />
+			<pattr name = "ctrl_Pedal2" value = "0" />
+			<pattr name = "ctrl_Speed" value = "0" />
+			<pattr name = "ctrl_Speed_value" value = "0" />
+			<pattr name = "midi_device" value = "0" />
+			<pattr name = "sw_Cancel" value = "0" />
+			<pattr name = "sw_Delay1" value = "1" />
+			<pattr name = "sw_Delay2" value = "1" />
+			<pattr name = "sw_Delay3" value = "1" />
+			<pattr name = "sw_Delay4" value = "1" />
+			<pattr name = "sw_DelaySOS" value = "1" />
+			<pattr name = "sw_FB" value = "1" />
+			<pattr name = "sw_Mute_input" value = "0" />
+			<pattr name = "sw_Pedal1" value = "1" />
+			<pattr name = "sw_Pedal2" value = "1" />
+			<pattr name = "sw_Speed" value = "1" />
+			<pattr name = "sw_pedal1_midi" value = "0" />
+			<pattr name = "sw_pedal2_midi" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "echo_return" value = "137" />
+		<pattr name = "echo_return_pan" value = "64" />
+		<pattr name = "echo_return_reverb_send" value = "137" />
+		<pattr name = "main_out_gain1&amp;2" value = "137" />
+		<pattr name = "rev_p1" value = "0" />
+		<pattr name = "source_gain" value = "137" />
+		<pattr name = "source_menu" value = "0" />
+		<pattr name = "source_output" value = "137" />
+		<pattr name = "source_output_pan" value = "64" />
+		<pattr name = "source_reverb_send" value = "137" />
+		<pattr name = "aMatrixOut" value = "0 0 1 1 1 1 2 0 1 3 1 1 4 0 1 5 1 1" />
+		<patcher name = "KorgSE500">
+			<pattr name = "se500_fb" value = "0." />
+			<pattr name = "se500_fltSW" value = "0" />
+			<pattr name = "se500_flt_hi" value = "0" />
+			<pattr name = "se500_flt_low" value = "127" />
+			<pattr name = "se500_mode0" value = "0" />
+			<pattr name = "se500_mode1" value = "0" />
+			<pattr name = "se500_mode2" value = "0" />
+			<pattr name = "se500_mode3" value = "0" />
+			<pattr name = "se500_mode4" value = "0" />
+			<pattr name = "se500_mode5" value = "0" />
+			<pattr name = "se500_speed" value = "0." />
+		</patcher>
+		<patcher name = "ReverbUnit">
+			<pattr name = "rev_p1" value = "1" />
+			<pattr name = "rev_p2" value = "48" />
+			<pattr name = "rev_p3" value = "40" />
+			<pattr name = "rev_p4" value = "49" />
+			<pattr name = "rev_p5" value = "48" />
+			<pattr name = "rev_p6" value = "48" />
+			<pattr name = "rev_p7" value = "45" />
+			<pattr name = "rev_p8" value = "116" />
+		</patcher>
+		<patcher name = "Midi Mapping">
+			<pattr name = "ctrl_Cancel" value = "0" />
+			<pattr name = "ctrl_Delay1" value = "0" />
+			<pattr name = "ctrl_Delay2" value = "0" />
+			<pattr name = "ctrl_Delay3" value = "0" />
+			<pattr name = "ctrl_Delay4" value = "0" />
+			<pattr name = "ctrl_DelaySOS" value = "0" />
+			<pattr name = "ctrl_FB" value = "0" />
+			<pattr name = "ctrl_FB_value" value = "0" />
+			<pattr name = "ctrl_Input_value" value = "0" />
+			<pattr name = "ctrl_Mute" value = "0" />
+			<pattr name = "ctrl_Pedal1" value = "0" />
+			<pattr name = "ctrl_Pedal2" value = "0" />
+			<pattr name = "ctrl_Speed" value = "0" />
+			<pattr name = "ctrl_Speed_value" value = "0" />
+			<pattr name = "midi_device" value = "0" />
+			<pattr name = "sw_Cancel" value = "0" />
+			<pattr name = "sw_Delay1" value = "1" />
+			<pattr name = "sw_Delay2" value = "1" />
+			<pattr name = "sw_Delay3" value = "1" />
+			<pattr name = "sw_Delay4" value = "1" />
+			<pattr name = "sw_DelaySOS" value = "1" />
+			<pattr name = "sw_FB" value = "1" />
+			<pattr name = "sw_Mute_input" value = "0" />
+			<pattr name = "sw_Pedal1" value = "1" />
+			<pattr name = "sw_Pedal2" value = "1" />
+			<pattr name = "sw_Speed" value = "1" />
+			<pattr name = "sw_pedal1_midi" value = "0" />
+			<pattr name = "sw_pedal2_midi" value = "0" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
