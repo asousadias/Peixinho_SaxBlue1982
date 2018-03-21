@@ -1,7 +1,7 @@
 # Jorge Peixinho: Sax-Blue (1982) Max Patcher
 
 
-Here you'll find the Max patch intended to perform Jorge Peixinho's _Sax Blue_, for Sax and Live electronics.
+Here you'll find the Max patch _**asd_JP_Sax-Blue.maxpat**_ and all the subpatchers needed to perform Jorge Peixinho's _Sax Blue_, for Sax and Live electronics.
 
 Hence you'll nedd at least the MaxMSP Runtime Application to run it.
 
