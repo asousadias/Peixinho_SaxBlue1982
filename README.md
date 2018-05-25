@@ -3,7 +3,7 @@
 
 Here you'll find the Max patch _**asd_JP_Sax-Blue.maxpat**_ and all the subpatchers needed to perform Jorge Peixinho's _Sax Blue_, for Sax and Live electronics.
 
-Hence you'll nedd at least the MaxMSP Runtime Application to run it.
+Hence you'll need at least the MaxMSP Runtime Application to run it.
 
 For information about use, issues and discussion, see:
 
