@@ -18,7 +18,7 @@ Trois cas d’étude. Revue Francophone d'Informatique et Musique [En ligne], n�
 - 2018 - Github release.
 - 2010.oct.05 - Some minor bugs revised. Thanks José Luis Ferreira!
 - 2009 - Revision and cleaning of patch.
-- 2001 - First version used in concert.
+- 2001 - First version used in concert; saxophones: José Massarrão.
 
 ## Disclaimer:
 These patches are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
