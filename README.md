@@ -1,7 +1,7 @@
 # Jorge Peixinho: Sax-Blue (1982) Max Patcher
 
 Developed by:<br>
-__Antonio de Sousa Dias__ Universidade de Lisboa, Faculdade de Belas-Artes a.sousadias@belasartes.ulisboa.pt<br>
+__Antonio de Sousa Dias__ <br>Universidade de Lisboa, Faculdade de Belas-Artes <br>a.sousadias@belasartes.ulisboa.pt<br>
 
 - Current release: https://github.com/asousadias/Peixinho_SaxBlue1982/archive/v0.1.0.zip
 
