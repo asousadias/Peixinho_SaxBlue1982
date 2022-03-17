@@ -1,7 +1,8 @@
 # Jorge Peixinho: Sax-Blue (1982) Max Patcher
 
-Developed by:<br>
-__Antonio de Sousa Dias__ <br>Universidade de Lisboa, Faculdade de Belas-Artes <br>a.sousadias@belasartes.ulisboa.pt<br>
+Design and programming<br>
+Antonio de SOUSA DIAS<br>
+a.sousadias@belasartes.ulisboa.pt<br>
 
 - Current release: https://github.com/asousadias/Peixinho_SaxBlue1982/archive/v0.1.0.zip
 
@@ -31,5 +32,3 @@ Universidade de Lisboa, Faculdade de Belas-Artes<br>
 Largo da Academia Nacional de Belas-Artes<br>
 1249-058 Lisboa, Portugal<br>
 http://www.belasartes.ulisboa.pt/
-
-www.sousadias.com
